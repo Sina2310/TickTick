@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361106435794",
+    "firebase_url": "https://ticktick-55125.firebaseio.com",
+    "project_id": "ticktick-55125",
+    "storage_bucket": "ticktick-55125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361106435794:android:281daa2f81c04b5d29870b",
+        "android_client_info": {
+          "package_name": "com.example.ticktick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361106435794-jtsu6kgqrm0dr34s0i34fks75gq0mh76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticktick",
+            "certificate_hash": "78213b91bf0fc5f9e225032ddf2e1085024d2ec6"
+          }
+        },
+        {
+          "client_id": "361106435794-mkrj4sn60ptaca23f5h59lq0v9r9vbgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvmeIpZFAbC0znu3LYmI_eRGM6U5Qxn84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361106435794-mkrj4sn60ptaca23f5h59lq0v9r9vbgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
